@@ -1,7 +1,7 @@
 NetChat
 =======
 
-Command line internet chat program for Unix-based machines
+Command line internet chat program for Unix-based machines. Written in C.
 
 Currently supporting only one-on-one connections, but will add support for group chats.
 
